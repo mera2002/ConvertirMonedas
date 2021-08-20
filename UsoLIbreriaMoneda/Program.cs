@@ -14,7 +14,7 @@ namespace UsoLIbreriaMoneda
         {
             Console.WriteLine("CONVERTIR DOLARES A PESOS Y LEMPIRAS");
 
-            /*int Dolares;
+            int Dolares;
             int pesos;
             int lempira;
             {
@@ -24,7 +24,7 @@ namespace UsoLIbreriaMoneda
                 Console.WriteLine("{0} Dolares equivale a {1} pesos", Dolares, pesos);
                 lempira = Dolares * 24;
                 Console.WriteLine("{0} Dolares equivale a {1} lempiras", Dolares, lempira);
-                {*/
+                {
                     {
 
                     Moneda.ListCollection();
@@ -37,5 +37,7 @@ namespace UsoLIbreriaMoneda
     }
         }
     }
+    }
+}
 
 

@@ -8,3 +8,13 @@ C:\Users\julissa\source\repos\LibreriaMoneda\UsoLIbreriaMoneda\obj\Debug\UsoLIbr
 C:\Users\julissa\source\repos\LibreriaMoneda\UsoLIbreriaMoneda\obj\Debug\UsoLIbreriaMoneda.csproj.CopyComplete
 C:\Users\julissa\source\repos\LibreriaMoneda\UsoLIbreriaMoneda\obj\Debug\UsoLIbreriaMoneda.exe
 C:\Users\julissa\source\repos\LibreriaMoneda\UsoLIbreriaMoneda\obj\Debug\UsoLIbreriaMoneda.pdb
+C:\LibreriaMoneda\UsoLIbreriaMoneda\bin\Debug\UsoLIbreriaMoneda.exe.config
+C:\LibreriaMoneda\UsoLIbreriaMoneda\bin\Debug\UsoLIbreriaMoneda.exe
+C:\LibreriaMoneda\UsoLIbreriaMoneda\bin\Debug\UsoLIbreriaMoneda.pdb
+C:\LibreriaMoneda\UsoLIbreriaMoneda\bin\Debug\LibreriaMoneda.dll
+C:\LibreriaMoneda\UsoLIbreriaMoneda\bin\Debug\LibreriaMoneda.pdb
+C:\LibreriaMoneda\UsoLIbreriaMoneda\obj\Debug\UsoLIbreriaMoneda.csproj.AssemblyReference.cache
+C:\LibreriaMoneda\UsoLIbreriaMoneda\obj\Debug\UsoLIbreriaMoneda.csproj.CoreCompileInputs.cache
+C:\LibreriaMoneda\UsoLIbreriaMoneda\obj\Debug\UsoLIbreriaMoneda.csproj.CopyComplete
+C:\LibreriaMoneda\UsoLIbreriaMoneda\obj\Debug\UsoLIbreriaMoneda.exe
+C:\LibreriaMoneda\UsoLIbreriaMoneda\obj\Debug\UsoLIbreriaMoneda.pdb
